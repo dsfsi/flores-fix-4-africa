@@ -208,15 +208,30 @@ Special thanks to the native speaker annotators—university students and resear
 
 If you use these corrections in your research, please cite our paper:
 
-```
-@misc{abdulmumin2024correctingfloresevaluationdataset,
-  title={Correcting FLORES Evaluation Dataset for Four African Languages}, 
-  author={Idris Abdulmumin and Sthembiso Mkhwanazi and Mahlatse S. Mbooi and Shamsuddeen Hassan Muhammad and Ibrahim Said Ahmad and Neo Putini and Miehleketo Mathebula and Matimba Shingange and Tajuddeen Gwadabe and Vukosi Marivate},
-  year={2024},
-  eprint={2409.00626},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2409.00626}, 
+```@inproceedings{abdulmumin-etal-2024-correcting,
+    title = "Correcting {FLORES} Evaluation Dataset for Four {A}frican Languages",
+    author = "Abdulmumin, Idris  and
+      Mkhwanazi, Sthembiso  and
+      Mbooi, Mahlatse  and
+      Muhammad, Shamsuddeen Hassan  and
+      Ahmad, Ibrahim Said  and
+      Putini, Neo  and
+      Mathebula, Miehleketo  and
+      Shingange, Matimba  and
+      Gwadabe, Tajuddeen  and
+      Marivate, Vukosi",
+    editor = "Haddow, Barry  and
+      Kocmi, Tom  and
+      Koehn, Philipp  and
+      Monz, Christof",
+    booktitle = "Proceedings of the Ninth Conference on Machine Translation",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.wmt-1.44/",
+    doi = "10.18653/v1/2024.wmt-1.44",
+    pages = "570--578",
 }
 ```
 
