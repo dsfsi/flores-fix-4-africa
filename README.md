@@ -208,7 +208,8 @@ Special thanks to the native speaker annotators—university students and resear
 
 If you use these corrections in your research, please cite our paper:
 
-```@inproceedings{abdulmumin-etal-2024-correcting,
+```
+@inproceedings{abdulmumin-etal-2024-correcting,
     title = "Correcting {FLORES} Evaluation Dataset for Four {A}frican Languages",
     author = "Abdulmumin, Idris  and
       Mkhwanazi, Sthembiso  and
